@@ -4,7 +4,6 @@
  "description": "API para validar cpf",
  "author": "First Last <first.last@example.com>",
  "main": "server.js",
-5
  "scripts": {
  "start": "node server.js"
  },
